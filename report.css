@@ -1,0 +1,41 @@
+<style type="text/css">
+<!--
+
+body {
+  color: #000000;
+  font-family: Arial;
+  font-size: 9pt;
+  background: #FFFFFF;
+}
+
+
+.DataTable {
+  font-size: 9pt;
+  border: #000000 1px solid;
+}
+
+
+.DataHeader {
+  color: #FFFFFF;
+  font-weight: bold;
+  text-align: center;
+  background: #808080;
+  border-top: none;
+  border-bottom: #000000 1px solid;
+  border-left: none;
+  border-right: #000000 1px solid;
+}
+
+.DataRowOdd {
+  background: #EEEEEE;
+}
+
+.DataCell {
+  border-top: none;
+  border-bottom: #000000 1px solid;
+  border-left: none;
+  border-right: #000000 1px solid;
+}
+
+-->
+</style>
